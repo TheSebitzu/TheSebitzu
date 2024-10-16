@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+🌱 I’m currently learning Python from CS50’s Introduction to Programming with Python.
+
+🤔 I’m applying to MLSA (Microsoft Learn Student Ambassadors).
+
+🔭 I’m not currently working on anything special.
+
+⚡ Fun fact: I'm a student eager to learn new stuff and get better at what I know at the moment.
+
+
 <!--
 **TheSebitzu/TheSebitzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
