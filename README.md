@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Python from CS50’s Introduction to Programming with Python.
-
-🤔 I’m applying to MLSA (Microsoft Learn Student Ambassadors).
-
-🔭 I’m not currently working on anything special.
+🌱 I’m currently learning new programming languages and starting new projects.
 
 ⚡ Fun fact: I'm a student eager to learn new stuff and get better at what I know at the moment.
 
